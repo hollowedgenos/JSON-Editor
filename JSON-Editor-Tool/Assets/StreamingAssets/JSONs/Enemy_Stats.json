@@ -1,0 +1,37 @@
+{
+  "enemies": [
+    {
+      "enemyID": "enemy1_MeleeSkele",
+      "enemyName": "Melee Skeleton",
+      "stats": {
+        "hp": 100,
+        "defense": 0,
+        "speed": 20,
+        "gold_amount": 10,
+        "xp_amount": 5
+      }
+    },
+    {
+      "enemyID": "enemy2_RangedSkele",
+      "enemyName": "Ranged Skeleton",
+      "stats": {
+        "hp": 65,
+        "defense": 0,
+        "speed": 10,
+        "gold_amount": 5,
+        "xp_amount": 5
+      }
+    },
+    {
+      "enemyID": "enemy3_ShieldSkele",
+      "enemyName": "Shield Skeleton",
+      "stats": {
+        "hp": 115,
+        "defense": 40,
+        "speed": 5,
+        "gold_amount": 12,
+        "xp_amount": 8
+      }
+    }
+  ]
+}

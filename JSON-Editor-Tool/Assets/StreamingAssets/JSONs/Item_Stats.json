@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "itemID": "item1_id",
+      "itemName": "item1_name",
+      "itemRarity": 0,
+      "effects": {
+        "hp_multiply": 2,
+        "defense_add": 0,
+        "speed_multiply": "0.25",
+        "gold_gain_multiply": "0.09",
+        "xp_gain_multiply": ""
+      },
+      "unlocked": true
+    },
+    {
+      "itemID": "item2_id",
+      "itemName": "item2_name",
+      "itemRarity": 1,
+      "effects": {
+        "hp_multiply": 0,
+        "defense_add": 25,
+        "speed_multiply": "",
+        "gold_gain_multiply": "",
+        "xp_gain_multiply": "0.05"
+      },
+      "unlocked": true
+    }
+  ]
+}

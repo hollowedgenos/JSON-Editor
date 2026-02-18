@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "characterID": "char1_id",
+      "characterName": "Percival",
+      "stats": {
+        "hp": 100,
+        "defense": 0,
+        "speed": 50,
+        "gold": 0,
+        "xp": 0
+      }
+    },
+    {
+      "characterID": "char2_id",
+      "characterName": "Tyr",
+      "stats": {
+        "hp": 100,
+        "defense": 0,
+        "speed": 50,
+        "gold": 0,
+        "xp": 0
+      }
+    },
+    {
+      "characterID": "char3_id",
+      "characterName": "Felix",
+      "stats": {
+        "hp": 100,
+        "defense": 0,
+        "speed": 50,
+        "gold": 0,
+        "xp": 0
+      }
+    },
+    {
+      "characterID": "char4_id",
+      "characterName": "Astr1d",
+      "stats": {
+        "hp": 100,
+        "defense": 0,
+        "speed": 50,
+        "gold": 0,
+        "xp": 0
+      }
+    },
+    {
+      "characterID": "char5_id",
+      "characterName": "Ronan",
+      "stats": {
+        "hp": 100,
+        "defense": 0,
+        "speed": 50,
+        "gold": 0,
+        "xp": 0
+      }
+    }
+  ]
+}

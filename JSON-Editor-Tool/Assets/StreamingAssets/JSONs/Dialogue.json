@@ -1,0 +1,392 @@
+{
+  "dialogue":{
+    "general_dialogue": 
+    {
+        "warrior": 
+          {
+            "warrior": 
+              {
+                "solo": 
+                [
+                  {
+                    "warrior_dialogue1": "I am talking to myself, because I am lonely.",
+                    "warrior_dialogue2": "Wow, all this space to myself!"
+                  }
+                ],
+                "idle": 
+                [
+                  {
+                    "warrior_dialogue1": "This is my idle dialogue, because I am not doing anything."
+                  },
+                  {
+                    "warrior_dialogue1": "I am still idle, but I need to say something different now."
+                  }
+                ]
+              },
+            "hunter": 
+              {
+                "generic_context": 
+                [
+                  {
+                    "warrior_dialogue1": "My name is John Dialogue, my mission: Produce Dialogue",
+                    "hunter_dialogue2" : "Databases are a puzzling concept."
+                  }
+                ]
+              },
+            "robot": 
+              {
+                "generic_context": 
+                [
+                  {
+                    "warrior_dialogue1": "We are bad people.",
+                    "robot_dialogue2"  : "We commit nefarious acts >:3"
+                  }
+                ]
+              },
+            "summoner": 
+              {
+                "generic_context": [
+                  {
+                    "warrior_dialogue1" : "We are in a team.",
+                    "summoner_dialogue2": "The power of teamwork is amazing!"
+                  }
+                ]
+              },
+            "assassin": 
+              {
+                "generic_context": 
+                [
+                  {
+                    "warrior_dialogue1" : "I am a warrior.",
+                    "assassin_dialogue2": "I like cats."
+                  }
+                ]
+              }
+            },
+        "hunter": 
+          {
+            "warrior": 
+              {
+                
+              },
+            "hunter": 
+              {
+                
+              },
+            "robot": 
+              {
+                
+              },
+            "summoner": 
+              {
+                
+              },
+            "assassin": 
+              {
+                
+              }
+          },
+        "robot": 
+          {
+            "warrior": 
+              {
+                
+              },
+            "hunter": 
+              {
+                
+              },
+            "robot": 
+              {
+                
+              },
+            "summoner": 
+              {
+                
+              },
+            "assassin": 
+              {
+                
+              }
+          },
+        "summoner": 
+          {
+            "warrior": 
+              {
+                
+              },
+            "hunter": 
+              {
+                
+              },
+            "robot": 
+              {
+                
+              },
+            "summoner": 
+              {
+                
+              },
+            "assassin": 
+              {
+                
+              }
+          },
+        "assassin": 
+          {
+            "warrior": 
+              {
+                
+              },
+            "hunter": 
+              {
+                
+              },
+            "robot": 
+              {
+                
+              },
+            "summoner": 
+              {
+                
+              },
+            "assassin": 
+              {
+                
+              }
+          },
+      "shop_dialogue": 
+        {
+          "shopkeep_dialogue1": "No window shoppers.",
+          "shopkeep_dialogue2": "zzzzz..."
+        }
+    },
+   "tutorial": 
+    {
+      "hero": 
+      {
+            "warrior": 
+              {
+                "puzzle_solved": 
+                [
+                  {
+                    "hero_dialogue1": "Now, that wasn't too bad was it?",
+                    "warrior_dialogue2": "Yeah.."
+                  }
+                ],
+                "start_boss": 
+                [
+                  {
+                    "warrior_dialogue1": "N-n-now hold on, we have to kill THAT?!",
+                    "hero_dialogue2": "Every great hero starts somewhere."
+                  }
+                ],
+                "tutorial_combat_end": 
+                [
+                  {
+                    "hero_dialogue1": "Good work, newbie! You're better than you look!",
+                    "warrior_dialogue2": "Thanks?"
+                  }
+                ],
+                "tutorial_room1_abilities": 
+                [
+                  {
+                    "hero_dialogue1": "Your primary, secondary, movement, and special abilities are at the bottom left of your screen. " ,
+                    "hero_dialogue2": "Why don't you give them a shot?",
+                    "warrior_dialogue3": "Ye- yeah, I know."
+                  }
+                ],
+                "tutorial_room1_controls": 
+                [
+                  {
+                    "hero_dialogue1": "Alright, newbie, how 'bout I catch you up on the basics? Use the WASD keys to move, the space bar to jump, and E to interact.",
+                    "warrior_dialogue2": "Yeah.. alright."
+                  }
+                ]
+              },
+            "hunter": 
+              {
+                "puzzle_solved": 
+                [
+                  {
+                    "hunter_dialogue1": "Phew, never in my years have I missed having (easter egg)'s brain on my team.",
+                    "hero_dialogue2": "I believe you are one fine newbie yourself getting through that puzzle."
+                  }
+                ],
+                "start_boss": 
+                [
+                  {
+                    "hunter_dialogue1": "Cannons for fingers? And I thought a metal arm was taking it too far."
+                  }
+                ],
+                "tutorial_combat_end": 
+                [
+                  {
+                    "hero_dialogue1": "Nice work, newbie." ,
+                    "hero_dialogue2": "If I didn't know any better, I would mistake you for someone with experience!",
+                    "hunter_dialogue3": "Heh. Thanks, son."
+                  }
+                ],
+                "tutorial_room1_abilities": 
+                [
+                  {
+                    "hero_dialogue1": "Your primary, secondary, movement, and special abilities are at bottom left of your screen.",
+                    "hero_dialogue2": "Why don't you take out your crossbow and give them a shot?",
+                    "hunter_dialogue3": "Aye, always a good idea to warm up before combat. I suggest you do the same, son."
+                  }
+                ],
+                "tutorial_room1_controls": 
+                [
+                  {
+                    "hero_dialogue1": "You ready? If you want to move around, make sure to use-",
+                    "hunter_dialogue2": "The WASD keys to move, the space bar to jump, and E to interact, correct?",
+                    "hero_dialogue3": "Yes! You catch on quick, newbie!"
+                  }
+                ]
+              },
+            "robot": 
+              {
+                "puzzle_solved": 
+                [
+                  {
+                    "hero_dialogue1": "Incredible! You solved that almost as easily as me!",
+                    "robot_dialogue2": "My processors are state of the art, so that statement is unlikely."
+                  }
+                ],
+                "start_boss": 
+                [
+                  {
+                    "robot_dialogue1": "Misuse of company property detected, cease your actions immediately.",
+                    "hero_dialogue2": "All business for you it seems."
+                  }
+                ],
+                "tutorial_combat_end": 
+                [
+                  {
+                    "hero_dialogue1": "That was quick! I see Mordred bots aren't to be trifled with.",
+                    "robot_dialogue2": "Correct."
+                  }
+                ],
+                "tutorial_room1_abilities": 
+                [
+                  {
+                    "hero_dialogue1": "Your primary, secondary, movement, and special abilities are at the bottom left of the screen.",
+                    "hero_dialogue2": "Why don't you give them a shot, miss Mordred automaton?",
+                    "robot_dialogue3": "Your instruction is unnecessary."
+                  }
+                ],
+                "tutorial_room1_controls": 
+                [
+                  {
+                    "hero_dialogue1": "Don't forget you can use the WASD keys to move, the space bar to jump, and E to interact, newbie!",
+                    "robot_dialogue2": "As a Mordred automaton, I do not need to be told basic information.",
+                    "hero_dialogue3": "You say that now, but don't get too full of yourself!"
+                  }
+                ]
+              },
+            "summoner": 
+              {
+                "puzzle_solved": 
+                [
+                  {
+                    "hero_dialogue1": "Good job! You're pretty smart for a street urchin!",
+                    "summoner_dialogue2": "And you're just as egotistical as I thought."
+                  }
+                ],
+                "start_boss": 
+                [
+                  {
+                    "summoner_dialogue1": "Great, another big ol' rattling fart to deal with.",
+                    "hero_dialogue2": "I am not that old, newbie.",
+                    "summoner_dialogue3": "Sure."
+                  }
+                ],
+                "tutorial_combat_end": 
+                [
+                  {
+                    "hero_dialogue1": "Well done!",
+                    "hero_dialogue2": "That was a fierce horde; Good job taking them down all on your own!",
+                    "summoner_dialogue3": "Don't patronize me!"
+                  }
+                ],
+                "tutorial_room1_abilities": 
+                [
+                  {
+                    "hero_dialogue1": "Your primary, secondary, movement, and special abilities are at the bottom left of the screen.",
+                    "hero_dialogue2": "Why don't you give them a shot?",
+                    "summoner_dialogue3": "Do you really have to explain everything?"
+                  }
+                ],
+                "tutorial_room1_controls": 
+                [
+                  {
+                    "hero_dialogue1": "Alright, if you want to move, newbie, you better be using the WASD keys to move, the space bar to jump, and E to interact!",
+                    "summoner_dialogue2": "Ugh, I know what I'm doing.",
+                    "hero_dialogue3": "Don't be so sure about that!"
+                  }
+                ]
+              },
+            "assassin": 
+              {
+                "puzzle_solved": 
+                [
+                  {
+                    "hero_dialogue1": "Amazing work! You did-",
+                    "assassin_dialogue2": "I told you I don't care for your compliments."
+                  }
+                ],
+                "start_boss": 
+                [
+                  {
+                    "hero_dialogue1": "A mighty foe for us to slay!",
+                    "assassin_dialogue2": "Can we dispense with these pleasantries and get on with our task?"
+                  }
+                ],
+                "tutorial_combat_end": 
+                [
+                  {
+                    "hero_dialogue1": "Amazing, it's your first dungeon run and you're clearing enemies out nearly as fast as me!",
+                    "assassin_dialogue2": "I don't need your flattery."
+                  }
+                ],
+                "tutorial_room1_abilities": 
+                [
+                  {
+                    "hero_dialogue1": "Your primary, secondary, movement, and special abilities are at the bottom left of the screen.",
+                    "hero_dialogue2": "Why don't you give them a shot?",
+                    "assassin_dialogue3":"...",
+                    "hero_dialogue4": "Did you hear me, newbie? Should I repeat myself?",
+                    "assassin_dialogue5": "Please don't."
+                  }
+                ],
+                "tutorial_room1_controls": 
+                [
+                  {
+                    "hero_dialogue1": "Newbie! Use the WASD keys to move, the space bar to jump, and E to interact! You can thank me later!",
+                    "assassin_dialogue2": "...",
+                    "assassin_dialogue3": "This is going to be a long day, isn't it.",
+                    "hero_dialogue4": "Huh? Did you say something?"
+                  }
+                ]
+              },
+            "hero": 
+              {
+                "puzzle": 
+                [
+                  {
+                    "hero_dialogue1": "What's ahead looks tricky.",
+                    "hero_dialogue2": "Use your brains to solve this one, not your brawn!"
+                  }
+                ],
+                "tutorial_combat": 
+                [
+                  {
+                    "hero_dialogue1": "Watch out, those foes have awoken!",
+                    "hero_dialogue2": "Guard your flanks!"
+                  }
+                ]
+              }
+      }
+    }
+  }
+}

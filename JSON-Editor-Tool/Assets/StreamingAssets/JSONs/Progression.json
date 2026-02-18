@@ -1,0 +1,18 @@
+{
+  "player_name": "JohnPlayer",
+  "current_area": "dungeon_one",
+  "player_stats": {
+    "runs": 0,
+    "kills": 15,
+    "deaths": 2,
+    "damage_dealt": 1023,
+    "damage_taken": 413,
+    "hp_healed": 115,
+    "time_played": "01:01:37"
+  },
+  "items_unlocked": {
+    "item1_id": true,
+    "item2_id": false,
+    "item3_id": true
+  }
+}
